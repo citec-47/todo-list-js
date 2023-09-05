@@ -53,7 +53,7 @@ HTML, CSS and JavaScript Awesome Books Project
 Coming soon!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-Click <a href="https://marwandev.github.io/todo-list-js/"> here</a> for the live demo
+Click <a href="https://citec-47.github.io/todo-list-js/"> here</a> for the live demo
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
